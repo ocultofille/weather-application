@@ -1,0 +1,16 @@
+.inputData {
+    width: 90%
+}
+
+.main {
+    width: 500px;
+}
+
+.searchInput {
+    width: 100%;
+}
+
+.temp {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
